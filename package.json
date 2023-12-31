@@ -1,0 +1,15 @@
+{
+  "name": "@duya/vue-markdown-complier",
+  "version": "0.0.1-beta",
+  "scripts": {
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "less": "^4.2.0",
+    "vite": "^5.0.10",
+    "vite-plugin-vue2": "^2.0.3",
+    "vue": "2.6.10",
+    "vue-template-compiler": "2.6.10"
+  }
+}

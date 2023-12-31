@@ -1,0 +1,5 @@
+node_modules/
+pnpm-lock.yaml
+example/node_modules/
+demo2/example/node_modules/
+dist/

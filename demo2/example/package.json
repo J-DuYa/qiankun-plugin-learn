@@ -1,0 +1,20 @@
+{
+  "name": "micro-vue-duya",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "qiankun": "^2.10.16",
+    "vue": "2.6.10",
+    "vue-template-compiler": "2.6.10"
+  },
+  "devDependencies": {
+    "i": "^0.3.7",
+    "import-html-entry": "^1.15.2",
+    "npm": "^10.2.5",
+    "vite": "^5.0.10",
+    "vite-plugin-qiankun": "^1.0.15",
+    "vite-plugin-vue2": "^2.0.3"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "name": "example",
+  "scripts": {
+    "dev": "vite"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "qiankun": "^2.10.16",
+    "vue": "2.6.10",
+    "vue-template-compiler": "2.6.10"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10",
+    "vite-plugin-vue2": "^2.0.3"
+  }
+}
